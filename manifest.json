@@ -1,0 +1,10 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Kristalli",
+    "short_name": "krist",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#5c687c",
+    "description": "owo"
+  }
+  
